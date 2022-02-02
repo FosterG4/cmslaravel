@@ -1,5 +1,7 @@
+domain : laravel.maaf.in
+
 # Username dan password
-- Halaman Login: http://laravel.maaf.in
+- Halaman Login: http://laravel.maaf.in/login
 - Username: javawebmedia
 - Password: javawebmedia
 
